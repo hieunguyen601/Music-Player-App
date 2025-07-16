@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/github/stars/hieunguyen601/Music-Player-App?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub stars"/>
     <img src="https://img.shields.io/github/forks/hieunguyen601/Music-Player-App?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub forks"/>
     <img src="https://img.shields.io/github/issues/hieunguyen601/Music-Player-App?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub issues"/>
-    <img src="https://img.shields.io/github/license/hieunguyen601/Music-Player-App?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub license"/>
   </div>
   
   <p style="font-size: 18px; color: #666; font-weight: 500; margin: 20px 0;">
