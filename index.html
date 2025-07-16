@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="icon" href="./images/music-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wght@0,100..900;1,100..900&family=TikTok+Sans:opsz,wght@12..36,300..900&family=Varela&display=swap" rel="stylesheet">
+    <title>Music Player</title>
+</head>
+<body>
+    <div class="container">
+        <div class="play-card">
+            <h2 class="title">Music Player</h2>
+            <img class="song-image" src="./images/photo1.jpg" alt="song image">
+            <h2 class="song-title">Darling, he lied</h2>
+            <p class="artists">Bixby, starfall</p>
+        </div>
+
+        <div class="progress">
+            <span class="current-time">0:00</span>
+            <input type="range" value="0" class="track-progress">
+            <span class="duration">0:00</span>
+        </div>
+
+        <div class="controls">
+            <button></button>
+            <button class="prev">&#9664;&#9664;</button>
+            <button class="play">&#9654;</button>
+            <button class="next">&#9654;&#9654;</button>
+        </div>
+        <audio class="songs" src="./musics/music1.mp3"></audio>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
